@@ -1,0 +1,6 @@
+{
+  "code-auto-commit.autoCommit": true,
+  "code-auto-commit.autoPush": true,
+  "code-auto-commit.commitTimeInterval": 0,
+  "code-auto-commit.commitMessage": "Auto commit - updated code"
+}
